@@ -17,7 +17,7 @@ Here is a compilation of a number of projects completed during my first week at 
 
 ## Link to live site on GitHub Pages
 
-
+https://joankamere.github.io/project-one/
 
 ## License & copyright
 
