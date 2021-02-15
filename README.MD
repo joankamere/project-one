@@ -10,10 +10,10 @@ Here is a compilation of a number of projects completed during my first week at 
 
 ## Project setup instructions
 
-1. 
-2. 
-3. 
-4. 
+1. Create folder for project.
+2. Create image and css folders.
+3. Add ReadMe and License.
+4. Push work to GitHub.
 
 ## Link to live site on GitHub Pages
 
